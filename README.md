@@ -15,10 +15,11 @@ This project demonstrates full-stack development skills including REST API creat
 
    ## Features
    
-   - **User Authentication** 
-  Register and log in with JWT-based authentication, providing secure access to personal finance data.
+  - **User Authentication**
+  Register and log in with JWT-based authentication, providing secure access to personal     
+     finance data.
 
-     - **Transaction Management**
+ - **Transaction Management**
   Add income or expense transactions.
   Specify amount, category, date, and description.
   View all transactions.

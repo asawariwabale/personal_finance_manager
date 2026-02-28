@@ -57,12 +57,65 @@ This project demonstrates full-stack development skills including REST API creat
 ## Tech Stack
   
 🔹 **Backend**
-   - [Jvava](https://www.oracle.com/java/)
+   - [Java](https://www.oracle.com/java/)
    - [SpringBoot](https://spring.io/projects/spring-boot)
    - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
    - [Spring Security](https://spring.io/projects/spring-security)
    - [Hibernate](https://hibernate.org/)
    - [Maven](https://maven.apache.org/)
+
+🔹 **Frontend**
+    - [React.js](https://reactjs.org/)
+    - [React Rounter](https://reactrouter.com/)
+    - [Boostrap](https://getbootstrap.com/)
+    - [Axios](https://axios-http.com/)
+
+🔹 **Database**
+    - [MySQL](https://www.mysql.com/)
+    
+
+## Project Structure
+
+```plaintext
+Personal-Finance-Manager
+│
+├── backend (Spring Boot)
+│   ├── controller
+│   ├── service
+│   ├── dao
+│   ├── model
+│   └── config
+│
+├── frontend (React)
+│   ├── components
+│   ├── pages
+│   ├── context
+│   └── services
+│
+└── README.md
+
+```
+## Installation
+
+  ## 1.Clone the Repository
+```bash
+  git clone https://github.com/your-username/Personal-Finance-Manager.git
+cd Personal-Finance-Manager
+```
+🔹 **Backend Setup (Spring Boot)**
+     
+  ## 2. **Open in Eclipse**
+    - Open **Eclipse IDE**
+    - Click **File → Import → Existing Maven Project**
+    - Select the backend folder
+    - Click **Finish**
+
+
+
+
+
+
+
 
 
 

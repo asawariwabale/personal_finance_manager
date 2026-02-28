@@ -15,16 +15,16 @@ This project demonstrates full-stack development skills including REST API creat
 
    ## Features
    
-   - **User Authentication**  
+   - **User Authentication** 
   Register and log in with JWT-based authentication, providing secure access to personal finance data.
 
-   - **Transaction Management**  
+   - **Transaction Management**
   Add income or expense transactions.
   Specify amount, category, date, and description.
   View all transactions.
   Delete or update transactions.
 
-   - **Category Management**
+     - **Category Management**
 
      Users can:
   Create custom categories (e.g., Rent, Groceries, Salary, Utilities) Delete categories Assign     categories to transactions

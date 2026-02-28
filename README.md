@@ -65,10 +65,10 @@ This project demonstrates full-stack development skills including REST API creat
    - [Maven](https://maven.apache.org/)
 
 🔹 **Frontend**
-    - [React.js](https://reactjs.org/)
-    - [React Rounter](https://reactrouter.com/)
-    - [Boostrap](https://getbootstrap.com/)
-    - [Axios](https://axios-http.com/)
+   - [React.js](https://reactjs.org/)
+   - [React Rounter](https://reactrouter.com/)
+   - [Boostrap](https://getbootstrap.com/)
+   - [Axios](https://axios-http.com/)
 
 🔹 **Database**
     - [MySQL](https://www.mysql.com/)

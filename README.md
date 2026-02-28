@@ -55,10 +55,17 @@ This project demonstrates full-stack development skills including REST API creat
       - Clean and user-friendly interface
 
 ## Tech Stack
-
-- **Backend**
   
-🔹 Backend
+🔹 **Backend**
+   - [Jvava](https://www.oracle.com/java/)
+   - [SpringBoot](https://spring.io/projects/spring-boot)
+   - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
+   - [Spring Security](https://spring.io/projects/spring-security)
+   - [Hibernate](https://hibernate.org/)
+   - [Maven](https://maven.apache.org/)
+
+
+
 
 
    

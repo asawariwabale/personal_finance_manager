@@ -57,7 +57,7 @@ This project demonstrates full-stack development skills including REST API creat
 ## Tech Stack
   
 🔹 **Backend**
-   - [Java](https://www.eclipse.com/java/)
+   - [Java](https://www.oracle.com/java/)
    - [SpringBoot](https://spring.io/projects/spring-boot)
    - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
    - [Spring Security](https://spring.io/projects/spring-security)

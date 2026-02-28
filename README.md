@@ -29,4 +29,30 @@ This project demonstrates full-stack development skills including REST API creat
      Users can:
   Create custom categories (e.g., Rent, Groceries, Salary, Utilities) Delete categories Assign categories to transactions
 
+
+  - **User Profile**
+    View account details Manage personal information  Secure user-specific data access
+
+  - **Dashboard Statistics**
+   - Total Income
+   - Total Expenses
+   - Current Balance
+   - Summary cards for quick overview
+
+   - **Transaction Filters**
+     - Filter by income or expense
+     - Filter by category
+     - Better tracking and financial insights
+
+   - **Protected Endpoints**
+     All backend APIs are secured using JWT authentication. Each user can only access their own       financial data.
+
+     - **Responsive UI**
+      - Built with React.js + Bootstrap
+      - Fully responsive for desktop and mobile devices
+      - Clean and user-friendly interface
+
+        
+    
+
    

@@ -104,10 +104,10 @@ cd Personal-Finance-Manager
 🔹 **Backend Setup (Spring Boot)**
      
   ## 2. **Open in Eclipse**
-    - Open **Eclipse IDE**
-    - Click **File → Import → Existing Maven Project**
+    - Open Eclipse IDE
+    - Click File → Import → Existing Maven Project
     - Select the backend folder
-    - Click **Finish**
+    - Click Finish
 
 ## 3. **Configure Database**
 ```code

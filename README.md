@@ -197,31 +197,38 @@ npm start
 
 ### Screenshots
 
+
+
 ### login page :
 
 <img width="1919" height="847" alt="Screenshot 2026-02-28 152755" src="https://github.com/user-attachments/assets/6fa56a0c-0c37-412a-a2ec-4624e43ce0a4" />
 
+---
 ### Register page :
 
 <img width="1911" height="839" alt="Screenshot 2026-02-28 153234" src="https://github.com/user-attachments/assets/2fc892c8-c76a-4e08-b9cb-c04039682b99" />
 
+---
 ### Dashboard page:
 
 <img width="1909" height="942" alt="Screenshot 2026-02-28 152936" src="https://github.com/user-attachments/assets/dd5fe9fc-4950-4b82-8997-fb35de5a26eb" />
 
+---
 ### Income page :
 
 <img width="1915" height="750" alt="Screenshot 2026-02-28 153018" src="https://github.com/user-attachments/assets/6c3a1f95-7041-4e36-901c-38acfb6d9564" />
 
+---
 ### Exenses page :
 
 <img width="1919" height="722" alt="Screenshot 2026-02-28 153050" src="https://github.com/user-attachments/assets/df411177-a464-43b5-b51c-ff3a6accf0ce" />
 
+---
 ### Budget page :
 
 <img width="1913" height="774" alt="Screenshot 2026-02-28 153123" src="https://github.com/user-attachments/assets/ff2599f4-4227-42be-a5df-616dbb085f4a" />
 
-
+---
 
 
 
